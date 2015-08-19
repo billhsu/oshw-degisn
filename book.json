@@ -1,1 +1,24 @@
-{}
+{
+    "structure": {
+        "readme": "README.md"
+    },
+    "plugins": [
+        "autocover"
+    ],
+    "pluginsConfig": {
+        "title": "哈利波特与开源硬件设计",
+        "author": "许仕鹏",
+        "font": {
+            "size": null,
+            "family": "Helvetica",
+            "color": "#FFF"
+        },
+        "size": {
+            "w": 1800,
+            "h": 2360
+        },
+        "background": {
+            "color": "#09F"
+        }
+    }
+}
