@@ -3,7 +3,8 @@
         "readme": "README.md"
     },
     "plugins": [
-        "autocover"
+        "autocover",
+        "yahei"
     ],
     "pluginsConfig": {
         "title": "哈利波特与开源硬件设计",
